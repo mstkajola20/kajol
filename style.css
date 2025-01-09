@@ -3,7 +3,7 @@
 
 *{
     color: white;
-    font-family: "Bebas Neue","manrpe", sans-serif
+    font-family: "Bebas Neue" "manrope" sans-serif
 }
 nav{
     margin: 24px 60px;
@@ -35,7 +35,7 @@ ul li{
 
 }
 ul li a{
-    font-family:"manrpe" ;
+    font-family:"manrope" ;
     text-decoration: none;
     color: #C7C7C7;
     font-size: 16PX;
@@ -47,11 +47,206 @@ ul li a{
     margin:30px 100px 80px ;
     justify-content: space-between;
 }
-h1{
+.manihader{
     font-family:Bebas Neue ;
+    font-size:100px ;
+    margin-bottom: 24px;
+
     
 
 }
+.discrip{
+    color: #C7C7C7;
+    font-size: 18px;
+    font-family: manrope ;
+
+}
+.p{
+    background-color: #D3e97A;
+    color:#0A0A0A;
+    font-size: 16px;
+    font-weight: 700px;
+    border-radius: 100px;
+    padding: 15px;
+}
+
+
+.iconoflink{
+    margin-left: 15px;
+    color: #D3E97A;
+}
+.iconoflink{
+    padding: 15PX;
+     background-color: #D3E97A;
+    text-align: center;
+    background-color: #0A0A0A;
+    border-radius: 50px;
+    color: #D3E97A;
+    margin-left: 15px;
+
+}
+.bondu{
+    height: 25px;
+    width: 25px;
+}
+hr{
+    color: #484848;
+}
+.main{
+    margin: 0px 100px;
+    color: white;
+}
+.porject{
+    /* height:600px ; */
+    /* width: 600px; */
+}
+.porwork{
+    display: flex;
+    margin-top:80px ;
+
+}
+.features{
+    font-size: 76px;
+    font-weight: 400px;
+    color: rgba(255, 255, 255, 1);
+    font-family:Bebas Neue ;
+    margin-bottom: 0px;
+
+}
+.feturepic{
+    padding: 125px 57px;
+
+}
+.uthena{
+    padding-top:26px;
+    padding-left: 16px;
+    margin:0px ;
+
+}
+.uthena span{
+    background-color: #0A0A0A;
+    padding: 8px 16px;
+    border-radius:25px ;
+}
+.proyjon{
+    background-color: #1a1a1a
+    border-radius: 12px
+}
+
+.proText {
+    /* display: flex;
+    flex-direction: column;
+    align-items: center;  */
+    padding: 60px 0px;
+}
+.PortfolioText{
+    font-size: 32px;
+    font-weight: 500;
+}
+.PorInfo{
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 16px;
+}
+.dureSoreJau{
+    display: flex;
+    justify-content: space-between;
+}
+
+.dureSoreJau{
+    display: flex;
+    justify-content: space-between;
+}
+.aktaankor{
+    color: #D3E97A;
+    margin-right: 24px;
+
+   }
+
+.AboutMe{
+    display: flex;
+}
+.A{
+    color: #D3E97A;
+}
+.Abotdiv1{
+    width: 40%;
+
+}
+
+.Abotdiv2{
+    width: 60%;
+    
+}
+.lets{
+    display:flex ;
+}
+.lets div{
+    width: 50%;
+}
+form input,textarea{
+    width: 100%;
+    margin-bottom: 24px;
+    background-color: #484848;
+    border: none;
+}
+.h{
+    background-color: #0A0A0A;
+    color: #D3E97A;
+}
+
+    
+
+
+
+@media only screen and (max-width:600px){
+    
+}
+navb{
+    flex-direction: column;
+    text-align: center;
+    padding: 24px 24px;
+    
+
+}
+.headb{
+    flex-direction: column;
+    padding: 80px 15px 80px;
+    
+}
+
+    .manihaderb{
+        font-size: 57px;
+        
+
+    background-color: #484848
+    }
+
+.bodertopb{
+    margin-bottom: 65px;
+    
+}
+. porwork{
+    flex-direction: column;
+
+}
+main{
+    margin: 0px 16px;
+
+}
+.proyjon{
+    margin: 0px;
+
+}
+.feturepic{
+    padding-bottom: 0px;
+    padding-top: 20px;
+}
+
+
+
+
+
 
 
 
